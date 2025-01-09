@@ -11,6 +11,8 @@ Github is a website where you can do projects that have version control on them
 The repository of stuff
 Another word for a project
 
-### Commit 
+### Commit
 
 Think of it as a save
+
+Reviewed by Ryan Lin
